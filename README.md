@@ -1,5 +1,7 @@
 # Webcam Magnifier
 
+> **_NOTE:_** This is still a work in progress. If you are visually impaired and you want to set something like this up but don't know how, email me at `oliverperree@gmail.com`.
+
 ![Screenshot of the magnifier in binary mode (black on yellow)](https://i.postimg.cc/cCcPtcb3/magnifier2.png)
 Screenshot of the magnifier in binary mode (black on yellow)
 
